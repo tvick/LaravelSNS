@@ -1,2 +1,2 @@
-# LaravelSNS
-Example using Amazon SNS with Laravel 5.6
+# LaravelSQS
+Example using Amazon SQS with Laravel 5.6
